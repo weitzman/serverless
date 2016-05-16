@@ -1,0 +1,20 @@
+site_name: Serverless docs
+theme: readthedocs
+repo_url: https://github.com/weitzman/serverless
+include_search: true
+pages:
+- Home: backstory.md
+- Getting Started:
+  - Overview: overview.md
+  - Configuring AWS: configuring_aws.md
+  - Installing: installing.md
+- Deep Dive:
+  - Project Structure: project_structure.md
+  - Templates and Variables: bootstrap.md
+  - Function Configuration: context.md
+  - Workflow: empty.md
+  - Best Practices: empty.md
+- Creating Plugins:
+  - Your First Plugin: empty.md
+  - The Serverless API: empty.md
+  - Putting It All Together: empty.md
