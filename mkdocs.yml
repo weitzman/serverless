@@ -1,7 +1,6 @@
 site_name: Serverless docs
 theme: readthedocs
 repo_url: https://github.com/weitzman/serverless
-include_search: true
 pages:
 - Home: backstory.md
 - Getting Started:
