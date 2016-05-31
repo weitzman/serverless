@@ -9,8 +9,8 @@ pages:
   - Installing: installing.md
 - Deep Dive:
   - Project Structure: project_structure.md
-  - Templates and Variables: bootstrap.md
-  - Function Configuration: context.md
+  - Templates and Variables: empty.md
+  - Function Configuration: empty.md
   - Workflow: empty.md
   - Best Practices: empty.md
 - Creating Plugins:
